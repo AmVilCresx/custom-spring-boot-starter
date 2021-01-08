@@ -1,0 +1,5 @@
+server:
+  port: 7070
+spring:
+  jackson:
+    time-zone: GMT+8
